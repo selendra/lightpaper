@@ -1,7 +1,7 @@
-What are the Substrate Frame Pallets used to build Selendra? Can you help list all the Frame Pallets used to create Selendra? 
+## What are the Substrate Frame Pallets used to build Selendra? Can you help list all the Frame Pallets used to create Selendra? 
 
 
-Are these pallets used? If the pallets listed below are not used please noted not use.
+### Are these pallets used? If the pallets listed below are not used please noted not use.
 
 - Balances — Support for accounts, balances, and transfers?
 - EVM — Full Rust-based EVM implementation based on SputnikVM. Provides the state transition logic for Moonbeam-based smart contracts?
@@ -14,4 +14,4 @@ Are these pallets used? If the pallets listed below are not used please noted no
 - System — Provides low-level types, storage, and blockchain functions?
 - Treasury — On-chain treasury that can be used to fund public goods such as a parachain slot?
 
-Anything else? Please list, just the name is fine? 
+### Anything else? Please list, just the name is fine? 
