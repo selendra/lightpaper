@@ -54,3 +54,4 @@
   - pallet_assets: create asset without have to write code.
       - plan: can trasaction via evm and pallet-contract (use pallet-xvm adopting astart)
 
+
