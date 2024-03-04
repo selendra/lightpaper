@@ -1,0 +1,25 @@
+**Selendra**: A Hybrid Architecture for Smart Contract Execution
+
+**Abstract:**
+
+Selendra is a hybrid architecture built on Substrate that offers flexibility for various use cases and network configurations. It is a multi-virtual machine that allows the execution of smart contracts in both Ethereum Virtual Machine (EVM) and WebAssembly (Wasm) environments with minimal transaction fees. Selendra aims to empower stakeholders, users, businesses, and developers in developing countries to create, use, and benefit from decentralized applications.
+
+**Key Features:**
+
+
+* **Hybrid Architecture:** Selendra's hybrid architecture combines the best features of both EVM and Wasm, providing flexibility and scalability for a wide range of applications.
+* **Multi-Virtual Machine:** Selendra supports multiple virtual machines, including EVM and Wasm, allowing developers to choose the best environment for their specific needs.
+* **Minimal Transaction Fees:** Selendra's transaction fees are significantly lower than those of other smart contract platforms, making it an attractive option for developers and users.
+* **Developer-Friendly:** Selendra provides a comprehensive set of developer tools and resources, making it easy for developers to build and deploy smart contracts.
+* **Enterprise-Ready:** Selendra is designed to meet the needs of enterprises, with features such as high throughput, scalability, and security.
+
+**Benefits:**
+
+
+
+* **Empowering Developing Countries:** Selendra aims to empower stakeholders, users, businesses, and developers in developing countries to create, use, and benefit from decentralized applications.
+* **Propelling the Blockchain Industry:** Selendra's goal is to establish a smart contract network that caters to both developers and enterprises, thereby propelling the blockchain industry beyond its current state.
+
+**Conclusion:**
+
+Selendra is a promising smart contract platform that offers a unique combination of features and benefits. Its hybrid architecture, multi-virtual machine support, minimal transaction fees, developer-friendly tools, and enterprise-ready features make it an ideal choice for a wide range of applications. Selendra has the potential to drive the blockchain industry and make a significant impact in developing countries.
