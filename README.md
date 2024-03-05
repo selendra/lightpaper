@@ -1,3 +1,3 @@
 # specs
 
-The docs prepare for Selendra official documentation.
+The docs prepare for Selendra Lightpaper
