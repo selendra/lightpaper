@@ -1,3 +1,3 @@
-# specs
+# Selendra Lightpaper
 
-The docs prepare for Selendra Lightpaper
+## Selendra: A Hybrid Architecture for Smart Contract Execution
